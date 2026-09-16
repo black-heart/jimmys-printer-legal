@@ -7,4 +7,4 @@ Published via GitHub Pages:
 - Privacy Policy — `/privacy.html`
 - Terms of Service — `/terms.html`
 
-Contact: support@billionstars.com
+Contact: billionstars.support@gmail.com
